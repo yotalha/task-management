@@ -1,0 +1,15 @@
+.task-item {
+    /* CSS styling for the task item */
+}
+
+.task-item.completed {
+    /* CSS styling for a completed task item */
+}
+
+.task-item input[type='checkbox'] {
+    /* CSS styling for the checkbox */
+}
+
+.task-item .task-text {
+    /* CSS styling for the task text */
+}
